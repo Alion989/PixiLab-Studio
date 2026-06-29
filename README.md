@@ -29,22 +29,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<p align="left">
-  <img src="1.jpg" width="180" alt="New Project Screen" />
-  <img src="2.jpg" width="180" alt="Main Workspace" />
-  <img src="3.jpg" width="180" alt="Export Options" />
-</p>
-
-<p align="left">
-  <img src="4.jpg" width="180" alt="Clips Manager" />
-  <img src="5.jpg" width="180" alt="Menu Options" />
-  <img src="6.jpg" width="180" alt="Settings Screen" />
-</p>
-
----
-
 ## ⚙️ Configuration & Settings
 
 * **Custom Preferences:** Adjust drawing grid resolutions (16x16, 32x32, up to 2048x2048 or fully custom bounds).
