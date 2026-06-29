@@ -1,48 +1,56 @@
 <p align="center">
-  <img src="logo.png" width="128" height="128" alt="PixiLab Icon" />
+  <img src="ic_launcher.png" width="128" height="128" alt="PixiLab Icon" />
 </p>
 <h1 align="center">PixiLab</h1>
 
 <p align="center">
-  A powerful, native, frame-by-frame Pixel Art and Animation editor for Android. Built with a focus on mobile workflow, it gives game developers and pixel artists the freedom to create sprites, tilesets, and animations anywhere, anytime.
+  A feature-rich, intuitive Pixel Art and Frame-by-Frame Animation editor. Built with a focus on a smooth mobile workflow, it provides all the essential tools for creating sprites, tilesets, and retro animations directly on your device.
 </p>
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-*   **Pixel Art Creation**: Native canvas support for various sizes (16x16, 32x32, 64x64, 128x128, etc.).
-*   **Frame-by-Frame Animation**: Easily manage, preview, duplicate, and reorder frames to create smooth pixel-perfect animations.
-*   **Clip Management**: Organize different animation sets (e.g., *Idle*, *Walk*, *Jump*) directly in the project timeline.
-*   **Essential Editor Tools**:
-    *   **Pencil & Eraser**: Basic drawing tools for pixel manipulation.
-    *   **Fill Bucket**: Efficient color-filling for closed shapes.
-    *   **Palette Management**: Create, customize, clear, and save your own color schemes.
-    *   **Selection Tools**: Rectangle, Ellipse, Lasso, and Magic Wand.
-    *   **Mirror Drawing**: Real-time symmetrical drawing for fast character and tile creation.
-    *   **Pan & Zoom**: Customizable controls for navigation and detail work.
-*   **Pro Export Options**:
-    *   **Multiple Formats**: Export your final work as **PNG** (single frames), **JPG**, or optimized **GIF** animations and **Sprite Sheets**.
-    *   **Pixel-Perfect Upscaling**: Scale your exports (x1 up to x16) to keep your art sharp on high-res displays.
-    *   **Batch Export**: Zip all clips and frames in one go.
-*   **Project History**: Access recent projects instantly.
-*   **Dark & Light Modes**: Toggle between UI themes to save eye strain and battery.
-*   **Onion Skinning**: View ghost frames of the previous and next frames for fluid animation planning.
+### 🛠️ Advanced Workspace & Tools
+* **Essential Toolset:** Pencil, Eraser, Bucket Fill, and Color Picker (Eyedropper).
+* **Advanced Selection:** Selection tools, Crop to Selection, and Canvas Resizing on the fly.
+* **Symmetrical Design:** Mirror drawing modes (Horizontal & Vertical) for faster character creation.
+* **Palette Management:** Easily create, add, import, export, or clear color palettes.
+
+### 🎬 Frame-by-Frame Animation
+* **Clip Management:** Organize different animation sets (such as *Idle* or *Walk*) within the same project.
+* **Timeline Controls:** Playback controls, frame duplication, custom frame duration, renaming, and easy deletion.
+* **Onion Skinning:** Toggle ghost layers of previous and next frames for smooth animation planning.
+
+### 📦 Pro Export Options
+* **Multiple Formats:** Export your artwork as **PNG**, **JPG**, **GIF** animations, or optimized **Sprite Sheets**.
+* **Pixel-Perfect Upscaling:** Scale your exports from **x1 up to x16** to keep your art crisp on high-resolution screens.
+* **Batch Export:** Save and compress all clips into a single **ZIP archive** in one click.
 
 ---
 
 ## 📱 Screenshots
 
-Here is a visual overview of **PixiLab**'s feature set and interface.
+<p align="center">
+  <img src="625295.jpg" width="280" alt="New Project Screen" />
+  <img src="625297.jpg" width="280" alt="Main Workspace" />
+  <img src="625301.jpg" width="280" alt="Export Options" />
+</p>
 
 <p align="center">
-  <img src="625295.jpg" width="280" alt="Main Drawing Interface" />
-  <img src="625297.jpg" width="280" alt="Workspace and Layers" />
-  <img src="625301.jpg" width="280" alt="Exporting a Project" />
-</p>
-<p align="center">
-  <img src="625303.jpg" width="280" alt="Frame Manager with Clips" />
-  <img src="625300.jpg" width="280" alt="Menus and Project Options" />
+  <img src="625303.jpg" width="280" alt="Clips Manager" />
+  <img src="625300.jpg" width="280" alt="Menu Options" />
   <img src="625302.jpg" width="280" alt="Settings Screen" />
 </p>
 
+---
+
+## ⚙️ Configuration & Settings
+
+* **Custom Preferences:** Adjust drawing grid resolutions (16x16, 32x32, up to 2048x2048 or fully custom bounds).
+* **UI Themes:** Seamlessly switch between Light and Dark themes.
+* **Control Sliders:** Fully customizable Pan and Zoom speeds for a comfortable drawing experience.
+* **Recent Projects:** Quick-access dashboard to manage and reload your recent files instantly.
+
+---
+<p align="center">Made with ❤️ for the Pixel Art Community</p>
