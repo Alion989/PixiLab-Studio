@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ic_launcher.png" width="128" height="128" alt="PixiLab Icon" />
+  <img src="logo.png" width="128" height="128" alt="PixiLab Icon" />
 </p>
 <h1 align="center">PixiLab</h1>
 
@@ -32,15 +32,15 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="625295.jpg" width="280" alt="New Project Screen" />
-  <img src="625297.jpg" width="280" alt="Main Workspace" />
-  <img src="625301.jpg" width="280" alt="Export Options" />
+  <img src="1.jpg" width="280" alt="New Project Screen" />
+  <img src="2.jpg" width="280" alt="Main Workspace" />
+  <img src="3.jpg" width="280" alt="Export Options" />
 </p>
 
 <p align="center">
-  <img src="625303.jpg" width="280" alt="Clips Manager" />
-  <img src="625300.jpg" width="280" alt="Menu Options" />
-  <img src="625302.jpg" width="280" alt="Settings Screen" />
+  <img src="4.jpg" width="280" alt="Clips Manager" />
+  <img src="5.jpg" width="280" alt="Menu Options" />
+  <img src="6.jpg" width="280" alt="Settings Screen" />
 </p>
 
 ---
@@ -51,6 +51,3 @@
 * **UI Themes:** Seamlessly switch between Light and Dark themes.
 * **Control Sliders:** Fully customizable Pan and Zoom speeds for a comfortable drawing experience.
 * **Recent Projects:** Quick-access dashboard to manage and reload your recent files instantly.
-
----
-<p align="center">Made with ❤️ for the Pixel Art Community</p>
