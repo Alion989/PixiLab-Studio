@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ic_launcher.png" width="128" height="128" alt="PixiLab Icon" />
+  <img src="logo.png" width="128" height="128" alt="PixiLab Icon" />
 </p>
 <h1 align="center">PixiLab</h1>
 
@@ -46,15 +46,3 @@ Here is a visual overview of **PixiLab**'s feature set and interface.
   <img src="625302.jpg" width="280" alt="Settings Screen" />
 </p>
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-* Android Device running **Android 5.0 (Lollipop)** or higher.
-* Android Studio (if you want to build from source).
-
-### Installation / Building
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/PixiLab.git](https://github.com/YOUR_USERNAME/PixiLab.git)
